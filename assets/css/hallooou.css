@@ -1963,3 +1963,8 @@ body {
 .navbar{
     min-height: 66px;
 }
+.imght{
+    width: 100%;
+    object-fit: cover;
+    height: 300px; /* only if you want fixed height */
+}
